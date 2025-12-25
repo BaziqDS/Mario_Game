@@ -1,5 +1,9 @@
 # Super Mario Bros Clone
 
+## Project Timeline
+- 📅 **Originally developed and completed:** January 2024 (Course Project, NED University) 
+- 📤 **Uploaded to GitHub:** December 2025
+
 A simple Super Mario Bros-like game implemented in C++ using the SFML (Simple and Fast Multimedia Library) framework. This project recreates classic platformer gameplay with Mario, enemies like Goombas, power-ups like Mushrooms, and various interactive elements such as bricks, pipes, and flags.
 
 ## Features
