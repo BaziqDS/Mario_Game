@@ -1,0 +1,988 @@
+Ground Block,0,768,0,0,32,32
+Ground Block,64,768,0,0,32,32
+Ground Block,128,768,0,0,32,32
+Ground Block,192,768,0,0,32,32
+Ground Block,256,768,0,0,32,32
+Ground Block,320,768,0,0,32,32
+Ground Block,384,768,0,0,32,32
+Ground Block,448,768,0,0,32,32
+Ground Block,512,768,0,0,32,32
+Ground Block,576,768,0,0,32,32
+Ground Block,640,768,0,0,32,32
+Ground Block,704,768,0,0,32,32
+Ground Block,768,768,0,0,32,32
+Ground Block,832,768,0,0,32,32
+Ground Block,896,768,0,0,32,32
+Ground Block,960,768,0,0,32,32
+Ground Block,1024,768,0,0,32,32
+Ground Block,1088,768,0,0,32,32
+Ground Block,1152,768,0,0,32,32
+Ground Block,1216,768,0,0,32,32
+Ground Block,1280,768,0,0,32,32
+Ground Block,1344,768,0,0,32,32
+Ground Block,1408,768,0,0,32,32
+Ground Block,1472,768,0,0,32,32
+Ground Block,1536,768,0,0,32,32
+Ground Block,1600,768,0,0,32,32
+Ground Block,1664,768,0,0,32,32
+Ground Block,1728,768,0,0,32,32
+Ground Block,1792,768,0,0,32,32
+Ground Block,1856,768,0,0,32,32
+Ground Block,1920,768,0,0,32,32
+Ground Block,1984,768,0,0,32,32
+Ground Block,2048,768,0,0,32,32
+Ground Block,2112,768,0,0,32,32
+Ground Block,2176,768,0,0,32,32
+Ground Block,2240,768,0,0,32,32
+Ground Block,2304,768,0,0,32,32
+Ground Block,2368,768,0,0,32,32
+Ground Block,2432,768,0,0,32,32
+Ground Block,2496,768,0,0,32,32
+Ground Block,2560,768,0,0,32,32
+Ground Block,2624,768,0,0,32,32
+Ground Block,2688,768,0,0,32,32
+Ground Block,2752,768,0,0,32,32
+Ground Block,2816,768,0,0,32,32
+Ground Block,2880,768,0,0,32,32
+Ground Block,2944,768,0,0,32,32
+Ground Block,3008,768,0,0,32,32
+Ground Block,3072,768,0,0,32,32
+Ground Block,3136,768,0,0,32,32
+Ground Block,3200,768,0,0,32,32
+Ground Block,3264,768,0,0,32,32
+Ground Block,3328,768,0,0,32,32
+Ground Block,3392,768,0,0,32,32
+Ground Block,3456,768,0,0,32,32
+Ground Block,3520,768,0,0,32,32
+Ground Block,3584,768,0,0,32,32
+Ground Block,3648,768,0,0,32,32
+Ground Block,3712,768,0,0,32,32
+Ground Block,3776,768,0,0,32,32
+Ground Block,3840,768,0,0,32,32
+Ground Block,3904,768,0,0,32,32
+Ground Block,3968,768,0,0,32,32
+Ground Block,4032,768,0,0,32,32
+Ground Block,4096,768,0,0,32,32
+Ground Block,4160,768,0,0,32,32
+Ground Block,4224,768,0,0,32,32
+Ground Block,4288,768,0,0,32,32
+Ground Block,4352,768,0,0,32,32
+Ground Block,4416,768,0,0,32,32
+Ground Block,4480,768,0,0,32,32
+Ground Block,4544,768,0,0,32,32
+Ground Block,4608,768,0,0,32,32
+Ground Block,4672,768,0,0,32,32
+Ground Block,4736,768,0,0,32,32
+Ground Block,4800,768,0,0,32,32
+Ground Block,4864,768,0,0,32,32
+Ground Block,4928,768,0,0,32,32
+Ground Block,4992,768,0,0,32,32
+Ground Block,5056,768,0,0,32,32
+Ground Block,5248,768,0,0,32,32
+Ground Block,5312,768,0,0,32,32
+Ground Block,5376,768,0,0,32,32
+Ground Block,5440,768,0,0,32,32
+Ground Block,5504,768,0,0,32,32
+Ground Block,5568,768,0,0,32,32
+Ground Block,5632,768,0,0,32,32
+Ground Block,5696,768,0,0,32,32
+Ground Block,5760,768,0,0,32,32
+Ground Block,5824,768,0,0,32,32
+Ground Block,5888,768,0,0,32,32
+Ground Block,5952,768,0,0,32,32
+Ground Block,6016,768,0,0,32,32
+Ground Block,6080,768,0,0,32,32
+Ground Block,6144,768,0,0,32,32
+Ground Block,6208,768,0,0,32,32
+
+Ground Block,6464,768,0,0,32,32
+Ground Block,6528,768,0,0,32,32
+Ground Block,6592,768,0,0,32,32
+Ground Block,6656,768,0,0,32,32
+Ground Block,6720,768,0,0,32,32
+Ground Block,6784,768,0,0,32,32
+Ground Block,6848,768,0,0,32,32
+Ground Block,6912,768,0,0,32,32
+Ground Block,6976,768,0,0,32,32
+Ground Block,7040,768,0,0,32,32
+Ground Block,7104,768,0,0,32,32
+Ground Block,7168,768,0,0,32,32
+Ground Block,7232,768,0,0,32,32
+Ground Block,7296,768,0,0,32,32
+Ground Block,7360,768,0,0,32,32
+Ground Block,7424,768,0,0,32,32
+Ground Block,7488,768,0,0,32,32
+Ground Block,7552,768,0,0,32,32
+Ground Block,7616,768,0,0,32,32
+Ground Block,7680,768,0,0,32,32
+Ground Block,7744,768,0,0,32,32
+Ground Block,7808,768,0,0,32,32
+Ground Block,7872,768,0,0,32,32
+Ground Block,7936,768,0,0,32,32
+Ground Block,8000,768,0,0,32,32
+Ground Block,8064,768,0,0,32,32
+Ground Block,8128,768,0,0,32,32
+Ground Block,8192,768,0,0,32,32
+Ground Block,8256,768,0,0,32,32
+Ground Block,8320,768,0,0,32,32
+Ground Block,8384,768,0,0,32,32
+Ground Block,8448,768,0,0,32,32
+Ground Block,8512,768,0,0,32,32
+Ground Block,8576,768,0,0,32,32
+Ground Block,8640,768,0,0,32,32
+Ground Block,8704,768,0,0,32,32
+Ground Block,8768,768,0,0,32,32
+Ground Block,8832,768,0,0,32,32
+Ground Block,8896,768,0,0,32,32
+Ground Block,8960,768,0,0,32,32
+Ground Block,9024,768,0,0,32,32
+Ground Block,9088,768,0,0,32,32
+Ground Block,9152,768,0,0,32,32
+Ground Block,9216,768,0,0,32,32
+Ground Block,9280,768,0,0,32,32
+Ground Block,9344,768,0,0,32,32
+Ground Block,9408,768,0,0,32,32
+Ground Block,9472,768,0,0,32,32
+Ground Block,9536,768,0,0,32,32
+Ground Block,9600,768,0,0,32,32
+Ground Block,9664,768,0,0,32,32
+Ground Block,9728,768,0,0,32,32
+Ground Block,9792,768,0,0,32,32
+Ground Block,9856,768,0,0,32,32
+Ground Block,9920,768,0,0,32,32
+Ground Block,9984,768,0,0,32,32
+Ground Block,10048,768,0,0,32,32
+Ground Block,10112,768,0,0,32,32
+Ground Block,10176,768,0,0,32,32
+Ground Block,10240,768,0,0,32,32
+Ground Block,10304,768,0,0,32,32
+Ground Block,10368,768,0,0,32,32
+Ground Block,10432,768,0,0,32,32
+Ground Block,10496,768,0,0,32,32
+Ground Block,10560,768,0,0,32,32
+Ground Block,10624,768,0,0,32,32
+Ground Block,10688,768,0,0,32,32
+Ground Block,10752,768,0,0,32,32
+Ground Block,10816,768,0,0,32,32
+Ground Block,10880,768,0,0,32,32
+Ground Block,11072,768,0,0,32,32
+Ground Block,11136,768,0,0,32,32
+Ground Block,11200,768,0,0,32,32
+Ground Block,11264,768,0,0,32,32
+Ground Block,11328,768,0,0,32,32
+Ground Block,11392,768,0,0,32,32
+Ground Block,11456,768,0,0,32,32
+Ground Block,11520,768,0,0,32,32
+Ground Block,11584,768,0,0,32,32
+Ground Block,11648,768,0,0,32,32
+Ground Block,11712,768,0,0,32,32
+Ground Block,11776,768,0,0,32,32
+Ground Block,11840,768,0,0,32,32
+Ground Block,11904,768,0,0,32,32
+Ground Block,11968,768,0,0,32,32
+Ground Block,12032,768,0,0,32,32
+Ground Block,12096,768,0,0,32,32
+Ground Block,12160,768,0,0,32,32
+Ground Block,12224,768,0,0,32,32
+Ground Block,12288,768,0,0,32,32
+Ground Block,12352,768,0,0,32,32
+Ground Block,12416,768,0,0,32,32
+Ground Block,12480,768,0,0,32,32
+Ground Block,12544,768,0,0,32,32
+Ground Block,12608,768,0,0,32,32
+Ground Block,12672,768,0,0,32,32
+Ground Block,12736,768,0,0,32,32
+Ground Block,12800,768,0,0,32,32
+Ground Block,12864,768,0,0,32,32
+Ground Block,12928,768,0,0,32,32
+Ground Block,12992,768,0,0,32,32
+Ground Block,13056,768,0,0,32,32
+Ground Block,13120,768,0,0,32,32
+Ground Block,13184,768,0,0,32,32
+Ground Block,13248,768,0,0,32,32
+Ground Block,13312,768,0,0,32,32
+Ground Block,13376,768,0,0,32,32
+Ground Block,13440,768,0,0,32,32
+Ground Block,13504,768,0,0,32,32
+Ground Block,13568,768,0,0,32,32
+Ground Block,13632,768,0,0,32,32
+Ground Block,13696,768,0,0,32,32
+Ground Block,13760,768,0,0,32,32
+Ground Block,13824,768,0,0,32,32
+Ground Block,13888,768,0,0,32,32
+Ground Block,13952,768,0,0,32,32
+Ground Block,14016,768,0,0,32,32
+Ground Block,14080,768,0,0,32,32
+Ground Block,14144,768,0,0,32,32
+Ground Block,14208,768,0,0,32,32
+Ground Block,14272,768,0,0,32,32
+Ground Block,14336,768,0,0,32,32
+Ground Block,14400,768,0,0,32,32
+Ground Block,14464,768,0,0,32,32
+Ground Block,14528,768,0,0,32,32
+Ground Block,14592,768,0,0,32,32
+Ground Block,14656,768,0,0,32,32
+Ground Block,14720,768,0,0,32,32
+Ground Block,14784,768,0,0,32,32
+Ground Block,14848,768,0,0,32,32
+Ground Block,14912,768,0,0,32,32
+Ground Block,0,832,0,0,32,32
+Ground Block,64,832,0,0,32,32
+Ground Block,128,832,0,0,32,32
+Ground Block,192,832,0,0,32,32
+Ground Block,256,832,0,0,32,32
+Ground Block,320,832,0,0,32,32
+Ground Block,384,832,0,0,32,32
+Ground Block,448,832,0,0,32,32
+Ground Block,512,832,0,0,32,32
+Ground Block,576,832,0,0,32,32
+Ground Block,640,832,0,0,32,32
+Ground Block,704,832,0,0,32,32
+Ground Block,768,832,0,0,32,32
+Ground Block,832,832,0,0,32,32
+Ground Block,896,832,0,0,32,32
+Ground Block,960,832,0,0,32,32
+Ground Block,1024,832,0,0,32,32
+Ground Block,1088,832,0,0,32,32
+Ground Block,1152,832,0,0,32,32
+Ground Block,1216,832,0,0,32,32
+Ground Block,1280,832,0,0,32,32
+Ground Block,1344,832,0,0,32,32
+Ground Block,1408,832,0,0,32,32
+Ground Block,1472,832,0,0,32,32
+Ground Block,1536,832,0,0,32,32
+Ground Block,1600,832,0,0,32,32
+Ground Block,1664,832,0,0,32,32
+Ground Block,1728,832,0,0,32,32
+Ground Block,1792,832,0,0,32,32
+Ground Block,1856,832,0,0,32,32
+Ground Block,1920,832,0,0,32,32
+Ground Block,1984,832,0,0,32,32
+Ground Block,2048,832,0,0,32,32
+Ground Block,2112,832,0,0,32,32
+Ground Block,2176,832,0,0,32,32
+Ground Block,2240,832,0,0,32,32
+Ground Block,2304,832,0,0,32,32
+Ground Block,2368,832,0,0,32,32
+Ground Block,2432,832,0,0,32,32
+Ground Block,2496,832,0,0,32,32
+Ground Block,2560,832,0,0,32,32
+Ground Block,2624,832,0,0,32,32
+Ground Block,2688,832,0,0,32,32
+Ground Block,2752,832,0,0,32,32
+Ground Block,2816,832,0,0,32,32
+Ground Block,2880,832,0,0,32,32
+Ground Block,2944,832,0,0,32,32
+Ground Block,3008,832,0,0,32,32
+Ground Block,3072,832,0,0,32,32
+Ground Block,3136,832,0,0,32,32
+Ground Block,3200,832,0,0,32,32
+Ground Block,3264,832,0,0,32,32
+Ground Block,3328,832,0,0,32,32
+Ground Block,3392,832,0,0,32,32
+Ground Block,3456,832,0,0,32,32
+Ground Block,3520,832,0,0,32,32
+Ground Block,3584,832,0,0,32,32
+Ground Block,3648,832,0,0,32,32
+Ground Block,3712,832,0,0,32,32
+Ground Block,3776,832,0,0,32,32
+Ground Block,3840,832,0,0,32,32
+Ground Block,3904,832,0,0,32,32
+Ground Block,3968,832,0,0,32,32
+Ground Block,4032,832,0,0,32,32
+Ground Block,4096,832,0,0,32,32
+Ground Block,4160,832,0,0,32,32
+Ground Block,4224,832,0,0,32,32
+Ground Block,4288,832,0,0,32,32
+Ground Block,4352,832,0,0,32,32
+Ground Block,4416,832,0,0,32,32
+Ground Block,4480,832,0,0,32,32
+Ground Block,4544,832,0,0,32,32
+Ground Block,4608,832,0,0,32,32
+Ground Block,4672,832,0,0,32,32
+Ground Block,4736,832,0,0,32,32
+Ground Block,4800,832,0,0,32,32
+Ground Block,4864,832,0,0,32,32
+Ground Block,4928,832,0,0,32,32
+Ground Block,4992,832,0,0,32,32
+Ground Block,5056,832,0,0,32,32
+Ground Block,5248,832,0,0,32,32
+Ground Block,5312,832,0,0,32,32
+Ground Block,5376,832,0,0,32,32
+Ground Block,5440,832,0,0,32,32
+Ground Block,5504,832,0,0,32,32
+Ground Block,5568,832,0,0,32,32
+Ground Block,5632,832,0,0,32,32
+Ground Block,5696,832,0,0,32,32
+Ground Block,5760,832,0,0,32,32
+Ground Block,5824,832,0,0,32,32
+Ground Block,5888,832,0,0,32,32
+Ground Block,5952,832,0,0,32,32
+Ground Block,6016,832,0,0,32,32
+Ground Block,6080,832,0,0,32,32
+Ground Block,6144,832,0,0,32,32
+Ground Block,6208,832,0,0,32,32
+Ground Block,6464,832,0,0,32,32
+Ground Block,6528,832,0,0,32,32
+Ground Block,6592,832,0,0,32,32
+Ground Block,6656,832,0,0,32,32
+Ground Block,6720,832,0,0,32,32
+Ground Block,6784,832,0,0,32,32
+Ground Block,6848,832,0,0,32,32
+Ground Block,6912,832,0,0,32,32
+Ground Block,6976,832,0,0,32,32
+Ground Block,7040,832,0,0,32,32
+Ground Block,7104,832,0,0,32,32
+Ground Block,7168,832,0,0,32,32
+Ground Block,7232,832,0,0,32,32
+Ground Block,7296,832,0,0,32,32
+Ground Block,7360,832,0,0,32,32
+Ground Block,7424,832,0,0,32,32
+Ground Block,7488,832,0,0,32,32
+Ground Block,7552,832,0,0,32,32
+Ground Block,7616,832,0,0,32,32
+Ground Block,7680,832,0,0,32,32
+Ground Block,7744,832,0,0,32,32
+Ground Block,7808,832,0,0,32,32
+Ground Block,7872,832,0,0,32,32
+Ground Block,7936,832,0,0,32,32
+Ground Block,8000,832,0,0,32,32
+Ground Block,8064,832,0,0,32,32
+Ground Block,8128,832,0,0,32,32
+Ground Block,8192,832,0,0,32,32
+Ground Block,8256,832,0,0,32,32
+Ground Block,8320,832,0,0,32,32
+Ground Block,8384,832,0,0,32,32
+Ground Block,8448,832,0,0,32,32
+Ground Block,8512,832,0,0,32,32
+Ground Block,8576,832,0,0,32,32
+Ground Block,8640,832,0,0,32,32
+Ground Block,8704,832,0,0,32,32
+Ground Block,8768,832,0,0,32,32
+Ground Block,8832,832,0,0,32,32
+Ground Block,8896,832,0,0,32,32
+Ground Block,8960,832,0,0,32,32
+Ground Block,9024,832,0,0,32,32
+Ground Block,9088,832,0,0,32,32
+Ground Block,9152,832,0,0,32,32
+Ground Block,9216,832,0,0,32,32
+Ground Block,9280,832,0,0,32,32
+Ground Block,9344,832,0,0,32,32
+Ground Block,9408,832,0,0,32,32
+Ground Block,9472,832,0,0,32,32
+Ground Block,9536,832,0,0,32,32
+Ground Block,9600,832,0,0,32,32
+Ground Block,9664,832,0,0,32,32
+Ground Block,9728,832,0,0,32,32
+Ground Block,9792,832,0,0,32,32
+Ground Block,9856,832,0,0,32,32
+Ground Block,9920,832,0,0,32,32
+Ground Block,9984,832,0,0,32,32
+Ground Block,10048,832,0,0,32,32
+Ground Block,10112,832,0,0,32,32
+Ground Block,10176,832,0,0,32,32
+Ground Block,10240,832,0,0,32,32
+Ground Block,10304,832,0,0,32,32
+Ground Block,10368,832,0,0,32,32
+Ground Block,10432,832,0,0,32,32
+Ground Block,10496,832,0,0,32,32
+Ground Block,10560,832,0,0,32,32
+Ground Block,10624,832,0,0,32,32
+Ground Block,10688,832,0,0,32,32
+Ground Block,10752,832,0,0,32,32
+Ground Block,10816,832,0,0,32,32
+Ground Block,10880,832,0,0,32,32
+Ground Block,11072,832,0,0,32,32
+Ground Block,11136,832,0,0,32,32
+Ground Block,11200,832,0,0,32,32
+Ground Block,11264,832,0,0,32,32
+Ground Block,11328,832,0,0,32,32
+Ground Block,11392,832,0,0,32,32
+Ground Block,11456,832,0,0,32,32
+Ground Block,11520,832,0,0,32,32
+Ground Block,11584,832,0,0,32,32
+Ground Block,11648,832,0,0,32,32
+Ground Block,11712,832,0,0,32,32
+Ground Block,11776,832,0,0,32,32
+Ground Block,11840,832,0,0,32,32
+Ground Block,11904,832,0,0,32,32
+Ground Block,11968,832,0,0,32,32
+Ground Block,12032,832,0,0,32,32
+Ground Block,12096,832,0,0,32,32
+Ground Block,12160,832,0,0,32,32
+Ground Block,12224,832,0,0,32,32
+Ground Block,12288,832,0,0,32,32
+Ground Block,12352,832,0,0,32,32
+Ground Block,12416,832,0,0,32,32
+Ground Block,12480,832,0,0,32,32
+Ground Block,12544,832,0,0,32,32
+Ground Block,12608,832,0,0,32,32
+Ground Block,12672,832,0,0,32,32
+Ground Block,12736,832,0,0,32,32
+Ground Block,12800,832,0,0,32,32
+Ground Block,12864,832,0,0,32,32
+Ground Block,12928,832,0,0,32,32
+Ground Block,12992,832,0,0,32,32
+Ground Block,13056,832,0,0,32,32
+Ground Block,13120,832,0,0,32,32
+Ground Block,13184,832,0,0,32,32
+Ground Block,13248,832,0,0,32,32
+Ground Block,13312,832,0,0,32,32
+Ground Block,13376,832,0,0,32,32
+Ground Block,13440,832,0,0,32,32
+Ground Block,13504,832,0,0,32,32
+Ground Block,13568,832,0,0,32,32
+Ground Block,13632,832,0,0,32,32
+Ground Block,13696,832,0,0,32,32
+Ground Block,13760,832,0,0,32,32
+Ground Block,13824,832,0,0,32,32
+Ground Block,13888,832,0,0,32,32
+Ground Block,13952,832,0,0,32,32
+Ground Block,14016,832,0,0,32,32
+Ground Block,14080,832,0,0,32,32
+Ground Block,14144,832,0,0,32,32
+Ground Block,14208,832,0,0,32,32
+Ground Block,14272,832,0,0,32,32
+Ground Block,14336,832,0,0,32,32
+Ground Block,14400,832,0,0,32,32
+Ground Block,14464,832,0,0,32,32
+Ground Block,14528,832,0,0,32,32
+Ground Block,14592,832,0,0,32,32
+Ground Block,14656,832,0,0,32,32
+Ground Block,14720,832,0,0,32,32
+Ground Block,14784,832,0,0,32,32
+Ground Block,14848,832,0,0,32,32
+Ground Block,14912,832,0,0,32,32
+
+
+
+Brick,1600,512,33,0,32,32
+Brick,1728,512,33,0,32,32
+Brick,1856,512,33,0,32,32
+
+Brick,5696,512,33,0,32,32
+Brick,5824,512,33,0,32,32
+
+Brick,5888,256,33,0,32,32
+Brick,5952,256,33,0,32,32
+Brick,6016,256,33,0,32,32
+Brick,6080,256,33,0,32,32
+Brick,6144,256,33,0,32,32
+Brick,6208,256,33,0,32,32
+Brick,6272,256,33,0,32,32
+Brick,6336,256,33,0,32,32
+
+Brick,6592,256,33,0,32,32
+Brick,6656,256,33,0,32,32
+Brick,6720,256,33,0,32,32
+Brick,6784,512,33,0,32,32
+
+
+Brick,7232,512,33,0,32,32
+Brick,7296,512,33,0,32,32
+
+Brick,8512,512,33,0,32,32
+
+
+Brick,8768,256,33,0,32,32
+Brick,8832,256,33,0,32,32
+Brick,8896,256,33,0,32,32
+
+Brick,9280,256,33,0,32,32
+
+Brick,9472,256,33,0,32,32
+
+Brick,9344,512,33,0,32,32
+Brick,9408,512,33,0,32,32
+
+
+Brick,11904,512,33,0,32,32
+Brick,11968,512,33,0,32,32
+
+Brick,12096,512,33,0,32,32
+
+
+//SINGLE BUSH
+Background,8704,704,363,297,32,32
+Background,8768,704,396,297,32,32
+Background,8832,704,429,297,32,32
+
+Background,448,176,0,660,32,32
+Background,448,240,0,693,32,32
+Background,512,176,33,660,32,32
+Background,512,240,33,693,32,32
+Background,576,176,66,660,32,32
+Background,576,240,66,693,32,32
+
+
+
+
+Background,8960,128,0,660,32,32
+Background,8960,192,0,693,32,32
+Background,9024,128,33,660,32,32
+Background,9024,192,33,693,32,32
+Background,9088,128,33,660,32,32
+Background,9088,192,33,693,32,32
+Background,9152,128,33,660,32,32
+Background,9152,192,33,693,32,32
+Background,9216,128,66,660,32,32
+Background,9216,192,66,693,32,32
+
+
+//CHOTA BADAL
+Background,1456,112,0,660,32,32
+Background,1456,176,0,693,32,32
+Background,1520,112,33,660,32,32
+Background,1520,176,33,693,32,32
+Background,1584,112,66,660,32,32
+Background,1584,176,66,693,32,32
+
+
+//BARA BADAL
+Background,2432,192,0,660,32,32
+Background,2432,256,0,693,32,32
+Background,2496,192,33,660,32,32
+Background,2496,256,33,693,32,32
+Background,2560,192,33,660,32,32
+Background,2560,256,33,693,32,32
+Background,2624,192,33,660,32,32
+Background,2624,256,33,693,32,32
+Background,2688,192,66,660,32,32
+Background,2688,256,66,693,32,32
+
+Background,3456,128,0,660,32,32
+Background,3456,192,0,693,32,32
+Background,3520,128,33,660,32,32
+Background,3520,192,33,693,32,32
+Background,3584,128,33,660,32,32
+Background,3584,192,33,693,32,32
+Background,3648,128,66,660,32,32
+Background,3648,192,66,693,32,32
+
+Background,5564,192,0,660,32,32
+Background,5564,256,0,693,32,32
+Background,5628,192,33,660,32,32
+Background,5628,256,33,693,32,32
+Background,5692,192,66,660,32,32
+Background,5692,256,66,693,32,32
+
+Background,6592,128,0,660,32,32
+Background,6592,192,0,693,32,32
+Background,6656,128,33,660,32,32
+Background,6656,192,33,693,32,32
+Background,6720,128,66,660,32,32
+Background,6720,192,66,693,32,32
+
+
+
+Background,7168,128,0,660,32,32
+Background,7168,192,0,693,32,32
+Background,7232,128,33,660,32,32
+Background,7232,192,33,693,32,32
+Background,7296,128,33,660,32,32
+Background,7296,192,33,693,32,32
+Background,7360,128,33,660,32,32
+Background,7360,192,33,693,32,32
+Background,7424,128,66,660,32,32
+Background,7424,192,66,693,32,32
+
+Background,7808,64,0,660,32,32
+Background,7808,128,0,693,32,32
+Background,7872,64,33,660,32,32
+Background,7872,128,33,693,32,32
+Background,7936,64,33,660,32,32
+Background,7936,128,33,693,32,32
+Background,8000,64,66,660,32,32
+Background,8000,128,66,693,32,32
+
+Background,9616,128,0,660,32,32
+Background,9616,192,0,693,32,32
+Background,9680,128,33,660,32,32
+Background,9680,192,33,693,32,32
+Background,9744,128,66,660,32,32
+Background,9744,192,66,693,32,32
+
+
+Background,0,704,264,264,32,32
+Background,64,640,264,264,32,32
+Background,64,704,264,297,32,32
+Background,128,704,297,297,32,32
+Background,128,640,264,297,32,32
+Background,128,576,297,264,32,32
+Background,192,640,330,264,32,32
+Background,192,704,264,297,32,32
+Background,256,704,330,264,32,32
+
+Background,4544,704,264,264,32,32
+Background,4608,640,264,264,32,32
+Background,4608,704,264,297,32,32
+Background,4672,704,297,297,32,32
+Background,4672,640,264,297,32,32
+Background,4672,576,297,264,32,32
+Background,4736,640,330,264,32,32
+Background,4736,704,264,297,32,32
+Background,4800,704,330,264,32,32
+
+
+Background,1152,704,264,264,32,32
+Background,1216,704,264,297,32,32
+Background,1216,640,297,264,32,32
+Background,1280,704,330,264,32,32
+
+
+Background,6080,704,264,264,32,32
+Background,6144,704,264,297,32,32
+Background,6144,640,297,264,32,32
+Background,6208,704,330,264,32,32
+
+Background,832,704,363,297,32,32
+Background,896,704,396,297,32,32
+Background,960,704,396,297,32,32
+Background,1024,704,396,297,32,32
+Background,1088,704,429,297,32,32
+
+Background,5760,704,363,297,32,32
+Background,5824,704,396,297,32,32
+Background,5888,704,396,297,32,32
+Background,5952,704,396,297,32,32
+Background,6016,704,429,297,32,32
+
+Background,1792,704,363,297,32,32
+Background,1856,704,396,297,32,32
+Background,1920,704,429,297,32,32
+
+Background,3712,704,363,297,32,32
+Background,3776,704,396,297,32,32
+Background,3840,704,396,297,32,32
+Background,3904,704,429,297,32,32
+
+Background,6848,704,363,297,32,32
+Background,6912,704,396,297,32,32
+Background,6976,704,429,297,32,32
+
+
+
+//bari bush
+Background,7808,704,363,297,32,32
+Background,7872,704,396,297,32,32
+Background,7936,704,396,297,32,32
+Background,8000,704,396,297,32,32
+Background,8064,704,429,297,32,32
+
+//DARK GREEN GHAAS
+Background,7040,704,264,264,32,32
+Background,7104,640,264,264,32,32
+Background,7104,704,264,297,32,32
+Background,7168,704,297,297,32,32
+Background,7168,640,264,297,32,32
+Background,7168,576,297,264,32,32
+Background,7232,640,330,264,32,32
+Background,7232,704,264,297,32,32
+Background,7296,704,330,264,32,32
+
+
+Background,9920,704,363,297,32,32
+Background,9984,704,396,297,32,32
+Background,10048,704,396,297,32,32
+Background,10112,704,429,297,32,32
+
+
+
+//DARK GREEN GHAAS
+Background,10304,704,264,264,32,32
+Background,10368,640,264,264,32,32
+Background,10368,704,264,297,32,32
+Background,10432,704,297,297,32,32
+Background,10432,640,264,297,32,32
+Background,10432,576,297,264,32,32
+Background,10496,640,330,264,32,32
+Background,10496,704,264,297,32,32
+Background,10560,704,330,264,32,32
+
+
+Background,10880,112,0,660,32,32
+Background,10880,176,0,693,32,32
+Background,10944,112,33,660,32,32
+Background,10944,176,33,693,32,32
+Background,11008,112,66,660,32,32
+Background,11008,176,66,693,32,32
+
+Background,11328,704,429,297,32,32
+
+Background,11392,704,264,264,32,32
+Background,11456,704,264,297,32,32
+Background,11456,640,297,264,32,32
+Background,11520,704,330,264,32,32
+
+
+Background,11648,112,0,660,32,32
+Background,11648,176,0,693,32,32
+Background,11712,112,33,660,32,32
+Background,11712,176,33,693,32,32
+Background,11776,112,66,660,32,32
+Background,11776,176,66,693,32,32
+
+
+Background,11840,704,363,297,32,32
+Background,11904,704,396,297,32,32
+Background,11968,704,429,297,32,32
+
+
+Background,12096,192,0,660,32,32
+Background,12096,256,0,693,32,32
+Background,12160,192,33,660,32,32
+Background,12160,256,33,693,32,32
+Background,12224,192,33,660,32,32
+Background,12224,256,33,693,32,32
+Background,12288,192,33,660,32,32
+Background,12288,256,33,693,32,32
+Background,12352,192,66,660,32,32
+Background,12352,256,66,693,32,32
+
+//DOUBLE CLOUD
+Background,12672,64,0,660,32,32
+Background,12672,128,0,693,32,32
+Background,12736,64,33,660,32,32
+Background,12736,128,33,693,32,32
+Background,12800,64,33,660,32,32
+Background,12800,128,33,693,32,32
+Background,12864,64,66,660,32,32
+Background,12864,128,66,693,32,32
+
+
+Background,13440,704,264,264,32,32
+Background,13504,640,264,264,32,32
+Background,13504,704,264,297,32,32
+Background,13568,704,297,297,32,32
+Background,13568,640,264,297,32,32
+Background,13568,576,297,264,32,32
+Background,13632,640,330,264,32,32
+Background,13632,704,264,297,32,32
+Background,13696,704,330,264,32,32
+
+
+//CASTLE
+Background,14016,704,429,0,32,32
+Background,14016,640,429,0,32,32
+Background,14016,576,363,0,32,32
+Background,14080,704,429,0,32,32
+Background,14080,640,429,0,32,32
+Background,14080,576,363,33,32,32
+Background,14144,704,429,33,32,32
+Background,14144,640,396,33,32,32
+Background,14144,576,363,33,32,32
+Background,14208,704,429,0,32,32
+Background,14208,640,429,0,32,32
+Background,14208,576,363,33,32,32
+Background,14272,704,429,0,32,32
+Background,14272,640,429,0,32,32
+Background,14272,576,363,0,32,32
+Background,14080,512,396,0,32,32
+Background,14144,512,429,0,32,32
+Background,14208,512,462,0,32,32
+Background,14080,448,363,0,32,32
+Background,14144,448,363,0,32,32
+Background,14208,448,363,0,32,32
+
+
+Pipe,2496,640,0,264,32,32
+Pipe,2496,704,0,297,32,32
+Pipe,2560,640,33,264,32,32
+Pipe,2560,704,33,297,32,32
+
+Pipe,3200,576,0,264,32,32
+Pipe,3200,640,0,297,32,32
+Pipe,3200,704,0,297,32,32
+Pipe,3264,576,33,264,32,32
+Pipe,3264,640,33,297,32,32
+Pipe,3264,704,33,297,32,32
+
+Pipe,3712,512,0,264,32,32
+Pipe,3712,576,0,297,32,32
+Pipe,3712,640,0,297,32,32
+Pipe,3712,704,0,297,32,32
+Pipe,3776,512,33,264,32,32
+Pipe,3776,576,33,297,32,32
+Pipe,3776,640,33,297,32,32
+Pipe,3776,704,33,297,32,32
+
+Pipe,4416,512,0,264,32,32
+Pipe,4416,576,0,297,32,32
+Pipe,4416,640,0,297,32,32
+Pipe,4416,704,0,297,32,32
+Pipe,4480,512,33,264,32,32
+Pipe,4480,576,33,297,32,32
+Pipe,4480,640,33,297,32,32
+Pipe,4480,704,33,297,32,32
+
+
+Pipe,11584,640,0,264,32,32
+Pipe,11584,704,0,297,32,32
+Pipe,11648,640,33,264,32,32
+Pipe,11648,704,33,297,32,32
+
+Pipe,12608,640,0,264,32,32
+Pipe,12608,704,0,297,32,32
+Pipe,12672,640,33,264,32,32
+Pipe,12672,704,33,297,32,32
+
+
+LEFT OF FIRST STAIR
+Stairs,9728,704,0,33,32,32
+Stairs,9792,704,0,33,32,32
+Stairs,9792,640,0,33,32,32
+Stairs,9856,704,0,33,32,32
+Stairs,9856,640,0,33,32,32
+Stairs,9856,576,0,33,32,32
+Stairs,9920,704,0,33,32,32
+Stairs,9920,640,0,33,32,32
+Stairs,9920,576,0,33,32,32
+Stairs,9920,512,0,33,32,32
+
+RIGHT OF FIRST STAIR
+Stairs,10112,704,0,33,32,32
+Stairs,10112,640,0,33,32,32
+Stairs,10112,576,0,33,32,32
+Stairs,10112,512,0,33,32,32
+Stairs,10176,704,0,33,32,32
+Stairs,10176,640,0,33,32,32
+Stairs,10176,576,0,33,32,32
+Stairs,10240,704,0,33,32,32
+Stairs,10240,640,0,33,32,32
+Stairs,10304,704,0,33,32,32
+
+
+LEFT OF SECOND STAIR
+Stairs,10624,704,0,33,32,32
+Stairs,10688,704,0,33,32,32
+Stairs,10688,640,0,33,32,32
+Stairs,10752,704,0,33,32,32
+Stairs,10752,640,0,33,32,32
+Stairs,10752,576,0,33,32,32
+Stairs,10816,704,0,33,32,32
+Stairs,10816,640,0,33,32,32
+Stairs,10816,576,0,33,32,32
+Stairs,10816,512,0,33,32,32
+Stairs,10880,704,0,33,32,32
+Stairs,10880,640,0,33,32,32
+Stairs,10880,576,0,33,32,32
+Stairs,10880,512,0,33,32,32
+
+RIGHT OF SECOND STAIR
+Stairs,11072,704,0,33,32,32
+Stairs,11072,640,0,33,32,32
+Stairs,11072,576,0,33,32,32
+Stairs,11072,512,0,33,32,32
+Stairs,11136,704,0,33,32,32
+Stairs,11136,640,0,33,32,32
+Stairs,11136,576,0,33,32,32
+Stairs,11200,704,0,33,32,32
+Stairs,11200,640,0,33,32,32
+Stairs,11264,704,0,33,32,32
+
+//BIG STAIR
+Stairs,12736,704,0,33,32,32
+Stairs,12800,704,0,33,32,32
+Stairs,12800,640,0,33,32,32
+Stairs,12864,704,0,33,32,32
+Stairs,12864,640,0,33,32,32
+Stairs,12864,576,0,33,32,32
+Stairs,12928,704,0,33,32,32
+Stairs,12928,640,0,33,32,32
+Stairs,12928,576,0,33,32,32
+Stairs,12928,512,0,33,32,32
+Stairs,12992,704,0,33,32,32
+Stairs,12992,640,0,33,32,32
+Stairs,12992,576,0,33,32,32
+Stairs,12992,512,0,33,32,32
+Stairs,12992,448,0,33,32,32
+Stairs,13056,704,0,33,32,32
+Stairs,13056,640,0,33,32,32
+Stairs,13056,576,0,33,32,32
+Stairs,13056,512,0,33,32,32
+Stairs,13056,448,0,33,32,32
+Stairs,13056,384,0,33,32,32
+Stairs,13120,704,0,33,32,32
+Stairs,13120,640,0,33,32,32
+Stairs,13120,576,0,33,32,32
+Stairs,13120,512,0,33,32,32
+Stairs,13120,448,0,33,32,32
+Stairs,13120,384,0,33,32,32
+Stairs,13120,320,0,33,32,32
+Stairs,13184,704,0,33,32,32
+Stairs,13184,640,0,33,32,32
+Stairs,13184,576,0,33,32,32
+Stairs,13184,512,0,33,32,32
+Stairs,13184,448,0,33,32,32
+Stairs,13184,384,0,33,32,32
+Stairs,13184,320,0,33,32,32
+Stairs,13184,256,0,33,32,32
+Stairs,13248,704,0,33,32,32
+Stairs,13248,640,0,33,32,32
+Stairs,13248,576,0,33,32,32
+Stairs,13248,512,0,33,32,32
+Stairs,13248,448,0,33,32,32
+Stairs,13248,384,0,33,32,32
+Stairs,13248,320,0,33,32,32
+Stairs,13248,256,0,33,32,32
+
+
+
+Stairs,13760,704,0,33,32,32
+
+
+Flag,13728,128,363,660,32,32
+
+
+Flag,13760,640,528,297,32,32
+Flag,13760,576,528,297,32,32
+Flag,13760,512,528,297,32,32
+Flag,13760,448,528,297,32,32
+Flag,13760,384,528,297,32,32
+Flag,13760,320,528,297,32,32
+Flag,13760,256,528,297,32,32
+Flag,13760,192,528,297,32,32
+Flag,13760,128,528,297,32,32
+Flag,13760,64,528,264,32,32
+
+
+
+
+CoinBlock,1152,512,759,0,32,32
+CoinBlock,1664,512,759,0,32,32
+CoinBlock,1728,256,759,0,32,32
+CoinBlock,1792,512,759,0,32,32
+Invisible Blocks,4928,512,891,0,32,32
+CoinBlock,5760,512,759,0,32,32
+CoinBlock,6784,256,759,0,32,32
+CoinBlock,7680,512,759,0,32,32
+
+CoinBlock,7872,512,759,0,32,32
+CoinBlock,7872,256,759,0,32,32
+CoinBlock,8064,512,759,0,32,32
+
+CoinBlock,9344,256,759,0,32,32
+CoinBlock,9408,256,759,0,32,32
+
+CoinBlock,12032,512,759,0,32,32
+
+
+
+
+
+Goomba,1664,704
+Goomba,3488,704
+Goomba,4096,704
+Goomba,4224,704
+Goomba,5984,192
+Goomba,6112,192
+Goomba,8064,704
+Goomba,8192,704
+Goomba,9216,704
+Goomba,9344,704
+
+
+Mushroom,1664,512
+Mushroom,4928,512
+Mushroom,5760,512
+Mushroom,7872,256
